@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sample_Activity</string>
+    <string name="btn_Cleare">Ac</string>
+    <string name="open_app">Open App</string>\
+
+    <style name="point">.</style>
+</resources>
